@@ -1,5 +1,6 @@
 # 1: 10 students:
 # this program is to assign the grades to the students having some marks in english
+#and also help teachers to calculate the grades of students
 def assign_grade(marks):
     
     grade = []
